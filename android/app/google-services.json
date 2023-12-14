@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607897424555",
+    "project_id": "hisgalaxy-f45a1",
+    "storage_bucket": "hisgalaxy-f45a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607897424555:android:83783fdf63fed5a60a5dee",
+        "android_client_info": {
+          "package_name": "com.galaxygroup.hismobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607897424555-92cqp5ptvi9gev373tt3sjkuocu557qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ui5Yf7cPOr1OB_2uR4ZTwRut0UHDvz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607897424555-92cqp5ptvi9gev373tt3sjkuocu557qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
